@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/álvaro-silva-54363a322" target="_blank">
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-silva-54363a322/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitch.tv/alvarouniverse_live" target="_blank">
