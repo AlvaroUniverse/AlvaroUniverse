@@ -13,14 +13,6 @@
 
 ###
 
-<img align="right" height="161" src="https://media.tenor.com/PZOAorurficAAAAi/deltarune-tenna.gif"  />
-
-###
-
-<img align="left" height="157" src="https://media.tenor.com/5acZjLl1OTAAAAAi/explosion-deltarune.gif"  />
-
-###
-
 <h1 align="left">Estou ainda aprendendo muito e melhorando de pouco em pouco minhas técnicas em PROGRAMAÇÃO, então, aguardem por projetos a vir! :D</h1>
 
 ###
@@ -38,14 +30,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img height="50" src="https://media.tenor.com/sbStxsoArjAAAAAj/line.gif"  />
-</div>
-
-###
 
 <h1 align="center">E é isso, por enquanto ;)</h1>
 
